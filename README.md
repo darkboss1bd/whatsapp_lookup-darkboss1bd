@@ -50,7 +50,7 @@ NAME | KEY |
 
 In the root of your project, run:
 ```bash
-cp .env.example .env
+cp .env
 ```
 🔹 This creates a new file named .env with the same content as .env.example.
 
