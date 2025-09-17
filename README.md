@@ -132,9 +132,8 @@ Enter the phone number with country code (e.g., 51987654321)
 The tool will validate the format and send the query
 
 The results will be displayed according to the type of query selected
-The project is open to collaborators.
 
-> **El proyecto está abierto a colaboradores.**
+> **The project is open to collaborators..**
 
 
 ## SUPPORTED DISTRIBUTIONS
